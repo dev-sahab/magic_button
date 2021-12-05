@@ -13,21 +13,21 @@ body{
     background: #040d15;
 
 }
-a{
-    position: relative;
-    display: inline-block;
-    padding: 12px 36px;
-    margin: 10px 0;
-    color: #fff;
-    text-decoration: none;
-    text-transform: uppercase;
-    font-size: 18px;
-    letter-spacing: 2px;
-    background: linear-gradient(90deg, #0162c8, #55e7fc);
-    border-radius: 40px;
-    overflow: hidden;
-    min-width: 100px;
-    text-align: center;
+a {
+	position: relative;
+	display: inline-block;
+	padding: 16px 36px;
+	margin: 10px 0;
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 23px;
+	letter-spacing: 2px;
+	background: linear-gradient(90deg, #0162c8, #55e7fc);
+	border-radius: 40px;
+	overflow: hidden;
+	min-width: 135px;
+	text-align: center;
 }
 a:nth-child(2){
     background: linear-gradient(90deg, #755bea, #ff72c8);
